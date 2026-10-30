@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer · Java · Spring Boot · Python</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/elias-yusef-sarquis-boutros"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/elias-yusef-sarquis-boutros"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:eliasyusefsarquisboutros@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/📍_Resistencia,_Chaco-Argentina-555?style=for-the-badge" alt="Location">
 </p>
@@ -48,13 +48,6 @@ I build **REST APIs and integrations for the banking sector** with Java and Spri
 - **[Microservicio-con-Integracion-de-Datos](https://github.com/sarquis12/Microservicio-con-Integracion-de-Datos)** · REST API for user management that integrates an external weather API · `Java 21` `Spring Boot 3` `Apache Camel` `SQL Server` `Flyway`
 - **[FastAPI-ML-App](https://github.com/sarquis12/FastAPI-ML-App)** · Microservices-based web app that classifies images with a CNN behind a FastAPI service · `Python` `FastAPI` `TensorFlow`
 - **[E-Commerce-Data-Pipeline](https://github.com/sarquis12/E-Commerce-Data-Pipeline)** · ELT pipeline analyzing revenue and deliveries for a large Latin American e-commerce · `Python` `SQL`
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarquis12&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarquis12&layout=compact&hide_border=true" height="160" alt="Top languages">
-</p>
 
 ---
 
